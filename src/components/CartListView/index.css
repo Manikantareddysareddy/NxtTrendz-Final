@@ -1,0 +1,13 @@
+.cart-list {
+  padding-left: 0px;
+}
+.removeAll-button {
+  color: #0b69ff;
+  border: 0 none;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 15px;
+  display: flex;
+  align-self: flex-end;
+  cursor: pointer;
+}
